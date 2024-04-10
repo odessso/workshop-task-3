@@ -1,2 +1,12 @@
+webpage:  https://odessso.github.io/workshop-task-3/
+
 # workshop-task-3
 Working with imagery of Icarus, flashing images and creating new images with help from generative AI
+
+# notes:
+- I found this one a step more challenging the the other workshops. At first I was still struggling with the upload issue of not being able to properly upload whole folders to github. Through some trial and error I finally worked out how to do this properly. I had quite a few issues also embedding images into my code, it kept on coming up with just some text saying "loading...". chatGPT was really helpful as a tool to input my code into after I had found problems, as it would quite successfully be able to point out minute issues in my code layout that was messing with my images.
+- I wanted to work with images of old masters' paintings as I feel like it is an interesting integration of something historic into a very technological art form. I am interested in the motif behind the story of Icarus, I boy who created wax wings but flew too close to the sun. I wanted to flash 3 or 4 edited images of the story of Icarus over a background image. Originally I tried to make the first image cascade down the screen, however I found this really difficult to get my head around in relation to the time sequence of the other two images.
+- I got inspired by one of Cathayward's repositories which featured some images with transparent backgrounds (task3 I think) so I decided to edit some images in photoshop and removed the backgrounds, then saved them as pngs. I also wanted an ethereal background instead of a solid colour, so I used generative AI to create a background that emulated heaven transitioning to hell (to go along with the story of Icarus somewhat) and then went into photoshop and extended the image so that it was more to my liking (more heaven and hell, more vertical).
+- I wanted to integrate the different images better with the background image so I used what was taught in Workshop3 to apply a yellow tint over all the images.
+- I experimented with naming the images easier names for the code - and grouped them as "icarus". I called each image "ic1" "ic2" etc.
+- I would like to find a method to get the first image to cascade down the screen, but even when I was really frustrated and consulted ChatGPT about this, it wasn't really able to give any assistance and the code just got too convoluted.
